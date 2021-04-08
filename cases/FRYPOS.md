@@ -1,4 +1,4 @@
-# Tokenising, lemmatising, tagging and dependency parsing annotation of Frisian text using UD Pipe Frysk
+# UDPipe Frysk: a tool for tokenising, lemmatising, tagging and dependency parsing annotation of Frisian text
 
 ## Metadata
 
