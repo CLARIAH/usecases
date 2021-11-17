@@ -1,3 +1,5 @@
+# Note: This repo is deprecated and moved to the [central CLARIAH PLUS repository](https://github.com/CLARIAH/clariah-plus)!
+
 # CLARIAH-PLUS use cases
 
 ## Introduction
